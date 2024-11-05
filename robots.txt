@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egeceizu.github.io/MfD/sitemap_index.txt
+Sitemap: https://egeceizu.github.io/dkx/sitemap_index.txt
+Sitemap: https://egeceizu.github.io/qUy/sitemap_index.txt
+Sitemap: https://egeceizu.github.io/tJb/sitemap_index.txt
